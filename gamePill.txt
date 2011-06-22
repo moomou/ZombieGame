@@ -1,0 +1,36 @@
+hey
+for that game
+see if you can add items to pick up and throw that cause more damage
+and see if you can make it a protector game where someone is hiding behind you
+so you (the player) does not get hurt but the person u are protecting does
+
+Opponents must attack more
+ 
+Must be able to pick up and throw items that you pick up
+
+-add damage meters to pickup objects???
+-add 1 more weapon and 1 more stage
+
+Michael says:
+ i dont like that i can walk off screen
+ there are not enough enemies
+ how do i pick up items
+throw
+Michael says:
+ what items can i pick up
+ I dont see any
+Michael says:
+ I am not really being chased
+ the barrel should project more on throw
+ not quite ready for us to do character design yet
+ bt if u polish it I will put an animator on it
+
+====================================================
+YOU CAN PROBABLY FIX THE ZOMBIE BY ADJUSTING GETTING NEXTSQUARE OPTION
+
+
+
+
+
+
+
